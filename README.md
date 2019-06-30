@@ -1,6 +1,8 @@
 # Express 框架简单实现
 
-## 内部数据结构
+理解掌握 Expres 框架内中间件的执行原理。
+
+## 数据结构
 
 ![express](./img/express.png)
 
